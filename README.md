@@ -16,7 +16,7 @@ Eu sou o Joshua Bispo, sou um programador Front End, atualmente estou aprendendo
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joshuabispo&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joshuabispo&show_icons=true&theme=default#gh-light-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuabispo&layout=compact&theme=dark#gh-dark-mode-only" />
 </a>
 
 
