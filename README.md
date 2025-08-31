@@ -18,7 +18,7 @@ Eu sou o Joshua Bispo, sou um programador Front End, atualmente estou aprendendo
 <br>
 <br>
 
-<img alt="icon Mensagem" width="22px" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/21/73.svg"/>  -  Pergunte-me sobre qualquer coisa [aqui](https://www.instagram.com/joshuabrgs_)
+💬  -  Pergunte-me sobre qualquer coisa [aqui](https://www.instagram.com/joshuabrgs_)
 <br>
 <br>
 <br>
@@ -29,11 +29,11 @@ Contate me:
 <br>
 
 <a href="https://www.instagram.com/joshuabrgs_/">
-<img alt="icon Instagram" width="22px" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/387.svg"/>
+<img align="left" alt="icon Instagram" width="22px" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/387.svg"/>
 </a>
 
 <a href="">
-<img alt="icon Linkedin" width="22px" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/456.svg"/>
+<img align="left" alt="icon Linkedin" width="22px" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/456.svg"/>
 </a>
 <br>
 <br>
