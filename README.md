@@ -1,20 +1,26 @@
 ## Olá 👋
 
 Eu sou o Joshua Bispo, sou um programador Front End, atualmente estou aprendendo e criando projetos com:
-
-- HTML
-- CSS
-- JAVASCRIPT
+<br>
+<p>
+<img align="center" alt="icon Html" width="22px" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/364.svg"/>    HTML
+</p>
+<p>
+<img align="center" alt="icon Css" width="22px" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/171.svg"/>    CSS
+</p>
+<p>
+<img align="center" alt="icon Java Script" width="22px" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/404.svg"/>    JAVASCRIPT
+</p>
 <br>
 <br>
 
 Contate me: 
 
 <a href="">
-<img align="left" alt="iconInstagram" width="22px" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/387.svg"/>
+<img align="left" alt="icon Instagram" width="22px" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/387.svg"/>
 </a>
 <a href="">
-<img align="left" alt="iconLinkedin" width="22px" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/456.svg"/>
+<img align="left" alt="icon Linkedin" width="22px" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/456.svg"/>
 </a>
 <br>
 <br>
