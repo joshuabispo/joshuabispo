@@ -18,8 +18,11 @@ Eu sou o Joshua Bispo, sou um programador Front End, atualmente estou aprendendo
 <br>
 <br>
 
-<p>ask me about anything [here](https://www.instagram.com/joshuabrgs_/)
-</p>
+<img align="left" alt="icon Mensagem" width="22px" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/21/73.svg"/> - Pergunte-me sobre qualquer coisa [aqui](https://www.instagram.com/joshuabrgs_)
+<br>
+<br>
+<br>
+<br>
 
 Contate me: 
 <a href="https://www.instagram.com/joshuabrgs_/">
