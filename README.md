@@ -10,7 +10,7 @@ Eu sou o Joshua Bispo, sou um programador Front End, atualmente estou aprendendo
 ####Contate me: 
 
 <a href="">
-<img align="left" alt=iconeInstagram width="22px" src="https://www.flaticon.com/br/icone-gratis/instagram_2111463?term=instagram&page=1&position=4&origin=tag&related_id=2111463"/>
+<img align="left" alt=iconeInstagram width="22px" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/387.svg"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joshuabispo&show_icons=true&theme=gotham#gh-dark-mode-only" />
