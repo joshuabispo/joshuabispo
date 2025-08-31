@@ -6,4 +6,5 @@ Eu sou o Joshua Bispo, sou um programador Front End, atualmente estou aprendendo
 - CSS
 - JAVASCRIPT
 
-![Joshua Bispo GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuabispo&hide=contribs,prs)
+[![Joshua Bispo GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joshuabispo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Joshua Bispo GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=joshuabispo&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
