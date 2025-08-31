@@ -2,6 +2,7 @@
 
 Eu sou o Joshua Bispo, sou um programador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
+<br>
 <p>
 <img align="center" alt="icon Html" width="22px" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/364.svg"/>    HTML
 </p>
