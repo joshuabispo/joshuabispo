@@ -5,15 +5,22 @@ Eu sou o Joshua Bispo, sou um programador Front End, atualmente estou aprendendo
 - HTML
 - CSS
 - JAVASCRIPT
-
+<br>
+<br>
 
 Contate me: 
 
 <a href="">
 <img align="left" alt="iconInstagram" width="22px" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/387.svg"/>
 </a>
-
-
+<a href="">
+<img align="left" alt="iconLinkedin" width="22px" src="https://icomoon.io/app/icomoon-lib/icons4acad3d/4/456.svg"/>
+</a>
+<br>
+<br>
+<br>
+<br>
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joshuabispo&show_icons=true&theme=gotham#gh-dark-mode-only" />
 </a>
