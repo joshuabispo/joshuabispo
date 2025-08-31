@@ -10,14 +10,14 @@ Eu sou o Joshua Bispo, sou um programador Front End, atualmente estou aprendendo
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joshuabispo&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joshuabispo&show_icons=true&theme=shadow_blue#gh-light-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joshuabispo&show_icons=true&theme=graywhite#gh-light-mode-only" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuabispo&layout=compact&langs_count=8&card_width=320&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuabispo&layout=compact&langs_count=8&card_width=320&theme=shadow_blue#gh-light-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuabispo&layout=compact&langs_count=8&card_width=320&theme=graywhite#gh-light-mode-only" />
 </a>
 
 
